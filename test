@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,https://iptvx.one/EPG_NOARCH,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.pw/xmltv/epg_ID.xml,http://epg.ra1n.lol/jp.xml"
+#EXTM3U Luôn cập nhật kênh ổn định - https://tinyurl.com/VietXoTV - https://hqth.me/vietstvKIPTV
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+http://171.238.181.52:18080/154.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+http://171.238.180.25:18080/192.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+http://171.238.180.25:18080/155.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1244990927?profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+http://171.238.181.52:18080/194.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+http://171.238.181.52:18080/307.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
+http://171.238.181.52:18080/308.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
+http://171.238.181.52:18080/156.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/2009311989?profile=pass
+#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/462220505?profile=pass
+#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1841573868?profile=pass
